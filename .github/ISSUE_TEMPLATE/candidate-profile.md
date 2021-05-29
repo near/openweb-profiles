@@ -2,7 +2,7 @@
 name: Candidate profile
 about: Use this template if you're looking for a job within NEAR ecosystem
 title: 'CV: First Last'
-labels: candidate
+labels: candidate, review-pending
 assignees: ''
 
 ---
