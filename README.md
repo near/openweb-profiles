@@ -13,7 +13,7 @@ Use this template if you're looking for a job within NEAR ecosystem. Following c
 - __Available for__: `full-time`|`project`|`freelance`|`bounty`
 - __Categories__: `engineering`|`design`|`customer-support`|`research`|`other`
 - __Location__: `country:city`|`remote`
-- __Skills__: `near-blockchain`|`nodejs`|`nest`|`vue`|`javascript`|`other`
+- __Skills__: `near-blockchain`|`rust`|`nodejs`|`vue`|`javascript`|`other`
 - __Free-form CV:__ Multi-line mark-down formatted background description.
 With details regarding previous experience and skills.
 
