@@ -2,9 +2,9 @@
 
 This repository hold profiles of [NEAR Protocol](https://near.org) ecosystem members and organizations. All profiles organized in [its issues](https://github.com/near/openweb-profiles/issues).
 
-DO NOT USE THIS REPOSITORY ISSUES DIRECTLY, for fully-featured access to profiles and its management sign-in via [jobs.openweb.dev](https://jobs.openweb.dev/).
+DO NOT USE THIS REPOSITORY ISSUES DIRECTLY, for fully-featured access to profiles and its management sign-in via [jobs.nearspace.info](https://jobs.nearspace.info/).
 
-![NEAR Protocol — Community members' profiles](https://jobs.openweb.dev/images/profiles-1280x640.png)
+![NEAR Protocol — Community members' profiles](https://jobs.nearspace.info/images/profiles-1280x640.png)
 
 ## CANDIDATE TEMPLATE
 
